@@ -1,3 +1,4 @@
+---
 layout: post
 title: How Data Analytics can Fix the New York Knicks
 subtitle: For Daven 
@@ -5,6 +6,7 @@ cover-img: /assets/img/Mocking.png
 thumbnail-img: /assets/img//Mocking.png
 share-img: /assets/img//Mocking.png
 tags: [python]
+---
 
 Please check out the link to my Medium article where I discuss how the Knicks can you Data Analytics to help there decision making.  We start our journey by explaining how bad the last 17 years have been.  We use exploratory data analytics to find some positives.  We further use our data to help us infer what will make the NY Knicks a better team. 
 
