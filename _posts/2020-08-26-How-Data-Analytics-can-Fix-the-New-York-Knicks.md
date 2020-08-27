@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Data Analytics can Fix the New York Knicks
-subtitle: By: Daven Sethi 
+subtitle: By Daven Sethi 
 cover-img: /assets/img/Knicks.png
 thumbnail-img: /assets/img//Knicks.png
 share-img: /assets/img//Knicks.png
