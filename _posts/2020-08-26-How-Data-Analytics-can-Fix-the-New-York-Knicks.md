@@ -2,9 +2,9 @@
 layout: post
 title: How Data Analytics can Fix the New York Knicks
 subtitle: For Daven 
-cover-img: /assets/img/Mocking.png
-thumbnail-img: /assets/img//Mocking.png
-share-img: /assets/img//Mocking.png
+cover-img: /assets/img/Knicks.png
+thumbnail-img: /assets/img//Knicks.png
+share-img: /assets/img//Knicks.png
 tags: [python]
 ---
 
