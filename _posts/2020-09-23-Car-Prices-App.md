@@ -2,9 +2,9 @@
 layout: post
 title: Can Machine Learning Accurately Predict Car Prices
 subtitle: By Daven Sethi 
-cover-img: assets/img/car-salesmen-annoying copy.jpg
-thumbnail-img:assets/img/car-salesmen-annoying copy.jpg
-share-img: assets/img/car-salesmen-annoying copy.jpg
+cover-img: /assets/img/car-salesmen-annoying copy.jpg
+thumbnail-img:/assets/img/car-salesmen-annoying copy.jpg
+share-img: /assets/img/car-salesmen-annoying copy.jpg
 tags: [python]
 ---
 
