@@ -1,14 +1,14 @@
 ---
 layout: post
-title: How Data Analytics can Fix the New York Knicks
+title: Using Machine Learning To Better Predict Car Prices
 subtitle: By Daven Sethi 
-cover-img: /assets/img/Knicks.png
-thumbnail-img: /assets/img//Knicks.png
-share-img: /assets/img//Knicks.png
+cover-img: /assets/img/car-salesmen-annoying copy.jpg
+thumbnail-img: /assets/img//car-salesmen-annoying copy.jpg
+share-img: /assets/img//car-salesmen-annoying copy.jpg
 tags: [python]
 ---
 
-Please check out the link to my Medium article where I discuss how the Knicks can you Data Analytics to help there decision making.  We start our journey by explaining how bad the last 17 years have been.  We use exploratory data analytics to find some positives.  We further use our data to help us infer what will make the NY Knicks a better team. [Medium Article ](https://medium.com/p/bcebfaeed4c7/edit)]
+Buying a car is a misearable experience.  My goal was to look at the variables that contribute to a car price.  The next step was to figure out how important each variable is to that price.  If interested please checkout my link to my Medium Article. [Medium Article ](https://medium.com/p/bcebfaeed4c7/edit)]
 
 If you interested please check out my github page with all my graphs, charts, and data 
 [Colab Notebook](https://colab.research.google.com/drive/1WEBgj9KWV630HTG9R03Ohi-XYF4PXEkT#scrollTo=AJJGg981YH2C&line=1&uniqifier=1)
